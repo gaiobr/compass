@@ -38,6 +38,23 @@ since it must be aligned with the content */
   width: 36px;
   color: #46433A; }
 
+/*** contact content list ***/
+.contact-list {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: 0.8em 0; }
+
+/* override the left margin added by font awesome for the contact content list,
+since it must be aligned with the content */
+.fa-ul.contact-list {
+  margin-left: 0; }
+
+/* list icons */
+.contact-list-item-icon {
+  width: 36px;
+  color: #46433A; }
+
+
 /*** logo ***/
 .logo-container {
   text-align: center; }
