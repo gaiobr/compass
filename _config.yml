@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "gaio"
   # tagline will appear under the title (optional)
-  tagline: "Biodiversity. Conservation."
+  ##### tagline: "Biodiversity. Conservation."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -17,9 +17,6 @@ compass:
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
   include_analytics: false
-  # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "@guedessantosj"
-  bluesky: "gaio.studio"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
